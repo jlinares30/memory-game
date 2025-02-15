@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+
+.gameBoard{
+    @apply flex gap-6 w-full justify-center items-center flex-wrap; 
+    /* grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); */
+
+}

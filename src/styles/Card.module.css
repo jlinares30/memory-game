@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+.card{
+    @apply bg-white w-28 h-28 shadow-md text-black flex justify-center items-center text-6xl rounded-2xl cursor-pointer hover:bg-[var(--accent)] border-black border-4;
+}
